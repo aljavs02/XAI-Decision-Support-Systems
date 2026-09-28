@@ -1,4 +1,4 @@
-# Wyjaśnialna Sztuczna Inteligencja (XAI) w Systemach Wspomagania Decyzji – Praca Magisterska
+# Wyjaśnialna Sztuczna Inteligencja (XAI) w Systemach Wspomagania Decyzji - Praca Magisterska
 
 Repozytorium zawiera kod źródłowy, skrypty do przetwarzania danych oraz wyniki analiz zrealizowanych na potrzeby mojej pracy magisterskiej na kierunku Analityka Gospodarcza. Projekt skupia się na zastosowaniu i ewaluacji technik Explainable AI (SHAP, LIME) w celu zwiększenia transparentności i interpretowalności modeli uczenia maszynowego (uczenie nadzorowane).
 
