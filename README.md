@@ -19,10 +19,10 @@ W ramach analizy porównawczej przetestowano modele na trzech uniwersalnych zbio
 * **Eksploracyjna Analiza Danych (EDA):** `seaborn`, `matplotlib`, analiza multikolinearności (VIF).
 
 ## Zawartość Repozytorium
-* **`EDA/`** – Skrypty do kompleksowej analizy eksploracyjnej, wizualizacji rozkładów zmiennych, statystyk opisowych oraz korelacji.
-* **`Preprocessing/`** – Kod odpowiedzialny za czyszczenie danych, transformacje, Label Encoding oraz One-Hot Encoding dla zmiennych kategorialnych.
-* **`Models/`** – Implementacja modeli predykcyjnych, strojenie hiperparametrów i ocena jakości (Gini, ROC AUC).
-* **`XAI_Analysis/`** – Generowanie lokalnych i globalnych wyjaśnień modeli za pomocą bibliotek SHAP i LIME, wizualizacje wpływu poszczególnych cech na decyzje modelu.
+* Skrypty do kompleksowej analizy eksploracyjnej, wizualizacji rozkładów zmiennych, statystyk opisowych oraz korelacji.
+* Kod odpowiedzialny za czyszczenie danych, transformacje, Label Encoding oraz One-Hot Encoding dla zmiennych kategorialnych.
+* Implementacja modeli predykcyjnych, strojenie hiperparametrów i ocena jakości (Gini, ROC AUC).
+* Generowanie lokalnych i globalnych wyjaśnień modeli za pomocą bibliotek SHAP i LIME, wizualizacje wpływu poszczególnych cech na decyzje modelu.
 
 ---
 *Autor:* Aleksandra Jaworska
